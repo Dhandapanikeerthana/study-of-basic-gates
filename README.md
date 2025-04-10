@@ -90,9 +90,11 @@ endmodule
 ![Screenshot 2025-04-10 213412](https://github.com/user-attachments/assets/a25cc38e-842b-4b54-8843-b4bffacfcf2e)
 
 **RTL realization Output:** 
+![Screenshot (29)](https://github.com/user-attachments/assets/c6c02225-ecc2-4bb9-8432-ed0875923a57)
 
 
 **RTL**
+![Screenshot (30)](https://github.com/user-attachments/assets/546ef5b9-31aa-421a-a8a4-e08d35125c3d)
 
 
 **Result:**
