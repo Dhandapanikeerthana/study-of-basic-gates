@@ -72,7 +72,7 @@ AND gate OR gate NOT gate NAND gate NOR gate Ex-OR gate Ex-NOR gate
 **PROGRAM**
 
 Program for logic gates and verify its truth table in quartus using Verilog programming
-
+```
  
  module logicgates1(a, b, c);
     input a;
@@ -89,7 +89,7 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
 
 endmodule
 
-
+```
 
  
 **Logic symbol & Truthtable**
