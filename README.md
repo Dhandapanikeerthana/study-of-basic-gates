@@ -1,4 +1,4 @@
-### study-of-basic-gates
+### STUDY-OF-BASIC-GATES
 ## DEVELOPED BY: KEERTHANA D
 ## REG NO: 212224040155
 
